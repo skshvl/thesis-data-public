@@ -1,0 +1,235 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 53
+    },
+    {
+      "field": "dataset",
+      "title": "dataset",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 106
+    },
+    {
+      "field": "dataset_idx",
+      "title": "dataset_idx",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 133
+    },
+    {
+      "field": "image_file",
+      "title": "image_file",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 138
+    },
+    {
+      "field": "linguistic_phenomena",
+      "title": "linguistic_phenomena",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 199
+    },
+    {
+      "field": "caption",
+      "title": "caption",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 837
+    },
+    {
+      "field": "answer",
+      "title": "answer",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 104
+    },
+    {
+      "field": "classes",
+      "title": "classes",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 106
+    },
+    {
+      "field": "split",
+      "title": "split",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 85
+    },
+    {
+      "field": "original_split",
+      "title": "original_split",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 140
+    },
+    {
+      "field": "classes_foil",
+      "title": "classes_foil",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 133
+    },
+    {
+      "field": "mturk",
+      "title": "mturk",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 210
+    },
+    {
+      "field": "foil",
+      "title": "foil",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 868
+    },
+    {
+      "field": "challenge_set",
+      "title": "challenge_set",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 148
+    },
+    {
+      "field": "foil_method",
+      "title": "foil_method",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 492
+    },
+    {
+      "field": "grammaticality_scores",
+      "title": "grammaticality_scores",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 203
+    },
+    {
+      "field": "nli_scores",
+      "title": "nli_scores",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 875
+    },
+    {
+      "field": "key",
+      "title": "key",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 196
+    },
+    {
+      "field": "declarative_statement",
+      "title": "declarative_statement",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 201
+    },
+    {
+      "field": "declarative_statement_foils",
+      "title": "declarative_statement_foils",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 236
+    },
+    {
+      "field": "provenance_of_foils",
+      "title": "provenance_of_foils",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 188
+    },
+    {
+      "field": "foiling_method",
+      "title": "foiling_method",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 155
+    },
+    {
+      "field": "orig_caption",
+      "title": "orig_caption",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 825
+    },
+    {
+      "field": "only_caption",
+      "title": "only_caption",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 139
+    },
+    {
+      "field": "local_img_path",
+      "title": "local_img_path",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 255
+    }
+  ],
+  "sort": [
+    {
+      "column": "image_file",
+      "dir": "asc"
+    }
+  ]
+}

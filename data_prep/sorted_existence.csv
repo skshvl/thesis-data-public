@@ -1,0 +1,61 @@
+,img_path,caption,foil,linguistic_phenomena,clip_pred_caption,clip_pred_foil,clip_pred_diff,performance_group
+844,../VALSE_data/images/v7w/v7w_2389519.jpg,There are bikes on the rack.,There are no bikes on the rack.,existence,23.316957473754883,25.163562774658203,-1.8466053009033203,low_perf
+694,../VALSE_data/images/v7w/v7w_2316446.jpg,There are no people in the photo.,There are people in the photo.,existence,22.16910743713379,22.317052841186523,-0.14794540405273438,low_perf
+761,../VALSE_data/images/v7w/v7w_2345066.jpg,There are no birds in the sky.,There are birds in the sky.,existence,21.893781661987305,22.33599853515625,-0.4422168731689453,low_perf
+582,../VALSE_data/images/v7w/v7w_2370812.jpg,There are no people.,There are people.,existence,15.981781005859375,16.09807586669922,-0.11629486083984375,low_perf
+769,../VALSE_data/images/v7w/v7w_2349587.jpg,There are no people.,There are people.,existence,16.677541732788086,17.384784698486328,-0.7072429656982422,low_perf
+862,../VALSE_data/images/v7w/v7w_2401335.jpg,There are wall sconces visible in this picture.,There are no wall sconces visible in this picture.,existence,23.671550750732422,23.6214599609375,0.050090789794921875,low_perf
+967,../VALSE_data/images/v7w/v7w_2361201.jpg,There is a horse.,There is no horse.,existence,24.963125228881836,25.00613784790039,-0.04301261901855469,low_perf
+983,../VALSE_data/images/v7w/v7w_2363335.jpg,There is a mast on the closest boat.,There is no mast on the closest boat.,existence,24.54865074157715,24.91971778869629,-0.3710670471191406,low_perf
+675,../VALSE_data/images/v7w/v7w_2411632.jpg,There are no people in the photo.,There are people in the photo.,existence,19.605886459350586,19.61745262145996,-0.011566162109375,low_perf
+904,../VALSE_data/images/v7w/v7w_2323857.jpg,There are kinds of fruit.,There are no kinds of fruit.,existence,24.527332305908203,24.772640228271484,-0.24530792236328125,low_perf
+875,../VALSE_data/images/v7w/v7w_2408510.jpg,There are dials on the microwave.,There are no dials on the microwave.,existence,28.710060119628906,28.73534393310547,-0.0252838134765625,low_perf
+953,../VALSE_data/images/v7w/v7w_2359039.jpg,There are zebras facing right.,There are no zebras facing right.,existence,29.596403121948242,30.271812438964844,-0.6754093170166016,low_perf
+735,../VALSE_data/images/v7w/v7w_2335370.jpg,There are no people in the picture.,There are people in the picture.,existence,21.057601928710938,21.325973510742188,-0.26837158203125,low_perf
+606,../VALSE_data/images/v7w/v7w_2380468.jpg,There are no people in the photo.,There are people in the photo.,existence,20.193368911743164,20.708419799804688,-0.5150508880615234,low_perf
+790,../VALSE_data/images/v7w/v7w_2359029.jpg,There are no animals.,There are animals.,existence,18.286327362060547,18.597312927246094,-0.3109855651855469,low_perf
+1011,../VALSE_data/images/v7w/v7w_2367703.jpg,There is a motorcycle.,There is no motorcycle.,existence,23.673030853271484,24.01051139831543,-0.3374805450439453,low_perf
+673,../VALSE_data/images/v7w/v7w_2406996.jpg,There are no people in the picture.,There are people in the picture.,existence,16.659927368164062,16.67388153076172,-0.01395416259765625,low_perf
+797,../VALSE_data/images/v7w/v7w_2362476.jpg,There are eagles visible.,There are no eagles visible.,existence,24.242958068847656,24.387296676635742,-0.14433860778808594,low_perf
+547,../VALSE_data/images/v7w/v7w_2374842.jpg,There are no birds in the photo.,There are birds in the photo.,existence,25.98548698425293,26.53180503845215,-0.5463180541992188,low_perf
+662,../VALSE_data/images/v7w/v7w_2403284.jpg,There are no people pictured.,There are people pictured.,existence,18.866092681884766,19.609882354736328,-0.7437896728515625,low_perf
+625,../VALSE_data/images/v7w/v7w_2390850.jpg,There are no people in the water.,There are people in the water.,existence,20.003116607666016,19.163747787475586,0.8393688201904297,medium_perf
+936,../VALSE_data/images/v7w/v7w_2345325.jpg,There are surfers in the pic.,There are no surfers in the pic.,existence,29.117443084716797,28.27674674987793,0.8406963348388672,medium_perf
+755,../VALSE_data/images/v7w/v7w_2342550.jpg,There are no people.,There are people.,existence,22.01439094543457,21.283512115478516,0.7308788299560547,medium_perf
+563,../VALSE_data/images/v7w/v7w_2336798.jpg,There are no people.,There are people.,existence,20.030048370361328,19.60774040222168,0.42230796813964844,medium_perf
+638,../VALSE_data/images/v7w/v7w_2394557.jpg,There are no people in this photo.,There are people in this photo.,existence,21.42655372619629,20.90526580810547,0.5212879180908203,medium_perf
+987,../VALSE_data/images/v7w/v7w_2363617.jpg,There is a pitcher visible.,There is no pitcher visible.,existence,19.348154067993164,19.169193267822266,0.17896080017089844,medium_perf
+996,../VALSE_data/images/v7w/v7w_2364948.jpg,There is a elephant in the picture.,There is no elephant in the picture.,existence,26.647424697875977,25.99148941040039,0.6559352874755859,medium_perf
+825,../VALSE_data/images/v7w/v7w_1591818.jpg,There are bicycles.,There are no bicycles.,existence,24.319177627563477,24.183443069458008,0.13573455810546875,medium_perf
+690,../VALSE_data/images/v7w/v7w_713731.jpg,There are no people.,There are people.,existence,16.6097354888916,16.27671241760254,0.3330230712890625,medium_perf
+762,../VALSE_data/images/v7w/v7w_2345780.jpg,There are no people.,There are people.,existence,20.112714767456055,19.418161392211914,0.6945533752441406,medium_perf
+566,../VALSE_data/images/v7w/v7w_2352298.jpg,There are no clouds in the sky.,There are clouds in the sky.,existence,19.92032241821289,19.532915115356445,0.3874073028564453,medium_perf
+722,../VALSE_data/images/v7w/v7w_2328270.jpg,There are no people in the image.,There are people in the image.,existence,18.533557891845703,18.441850662231445,0.09170722961425781,medium_perf
+600,../VALSE_data/images/v7w/v7w_150392.jpg,There are no clouds in sight.,There are clouds in sight.,existence,23.193477630615234,22.38791847229004,0.8055591583251953,medium_perf
+957,../VALSE_data/images/v7w/v7w_2360186.jpg,There is a bird in the picture.,There is no bird in the picture.,existence,23.443819046020508,23.056907653808594,0.38691139221191406,medium_perf
+882,../VALSE_data/images/v7w/v7w_2411942.jpg,There are zebras in the picture.,There are no zebras in the picture.,existence,30.11859893798828,29.487159729003906,0.631439208984375,medium_perf
+590,../VALSE_data/images/v7w/v7w_2373121.jpg,There are no clouds in the sky.,There are clouds in the sky.,existence,16.902000427246094,16.117395401000977,0.7846050262451172,medium_perf
+898,../VALSE_data/images/v7w/v7w_2318073.jpg,There are lights.,There are no lights.,existence,22.07435417175293,21.4285888671875,0.6457653045654297,medium_perf
+956,../VALSE_data/images/v7w/v7w_2359944.jpg,There is a person pictured.,There is no person pictured.,existence,21.526487350463867,21.205995559692383,0.3204917907714844,medium_perf
+592,../VALSE_data/images/v7w/v7w_2373845.jpg,There are no people visible.,There are people visible.,existence,20.983501434326172,20.37747573852539,0.6060256958007812,medium_perf
+712,../VALSE_data/images/v7w/v7w_2325309.jpg,There are no animals pictured.,There are animals pictured.,existence,24.001291275024414,23.618942260742188,0.38234901428222656,medium_perf
+880,../VALSE_data/images/v7w/v7w_2410671.jpg,There are giraffes.,There are no giraffes.,existence,31.293678283691406,28.138118743896484,3.155559539794922,high_perf
+1007,../VALSE_data/images/v7w/v7w_2367084.jpg,There is a giraffe.,There is no giraffe.,existence,25.507123947143555,23.77712631225586,1.7299976348876953,high_perf
+795,../VALSE_data/images/v7w/v7w_2361437.jpg,There are cows shown.,There are no cows shown.,existence,27.734546661376953,26.153440475463867,1.581106185913086,high_perf
+851,../VALSE_data/images/v7w/v7w_2393355.jpg,There are players or shown.,There are no players or shown.,existence,22.763431549072266,20.381607055664062,2.381824493408203,high_perf
+976,../VALSE_data/images/v7w/v7w_2362253.jpg,There is a plane.,There is no plane.,existence,26.606704711914062,24.76561164855957,1.8410930633544922,high_perf
+1023,../VALSE_data/images/v7w/v7w_1159443.jpg,There are old men.,There are no old men.,existence,24.0682315826416,22.770912170410156,1.2973194122314453,high_perf
+925,../VALSE_data/images/v7w/v7w_2339363.jpg,There are skis in the picture.,There are no skis in the picture.,existence,28.046327590942383,27.048654556274414,0.9976730346679688,high_perf
+729,../VALSE_data/images/v7w/v7w_2331050.jpg,There are no people pictured here.,There are people pictured here.,existence,20.0201416015625,18.62339210510254,1.396749496459961,high_perf
+905,../VALSE_data/images/v7w/v7w_2324297.jpg,There are children.,There are no children.,existence,22.97246742248535,20.399354934692383,2.5731124877929688,high_perf
+659,../VALSE_data/images/v7w/v7w_2402139.jpg,There are no clouds in the sky.,There are clouds in the sky.,existence,19.28322982788086,17.39950942993164,1.8837203979492188,high_perf
+792,../VALSE_data/images/v7w/v7w_2360434.jpg,There are signs pictured.,There are no signs pictured.,existence,26.993423461914062,25.05939292907715,1.934030532836914,high_perf
+972,../VALSE_data/images/v7w/v7w_2361951.jpg,There is a train in this picture.,There is no train in this picture.,existence,26.479860305786133,25.424724578857422,1.055135726928711,high_perf
+655,../VALSE_data/images/v7w/v7w_2401288.jpg,There are no people pictured here.,There are people pictured here.,existence,18.555410385131836,17.041439056396484,1.5139713287353516,high_perf
+873,../VALSE_data/images/v7w/v7w_2407816.jpg,There are power lines.,There are no power lines.,existence,23.48535919189453,21.576265335083008,1.9090938568115234,high_perf
+616,../VALSE_data/images/v7w/v7w_2385384.jpg,There are no people pictured.,There are people pictured.,existence,26.002483367919922,22.47687339782715,3.5256099700927734,high_perf
+938,../VALSE_data/images/v7w/v7w_2346628.jpg,There are players shown.,There are no players shown.,existence,23.351545333862305,19.173603057861328,4.177942276000977,high_perf
+1032,../VALSE_data/images/v7w/v7w_2370926.jpg,There is a player visible.,There is no player visible.,existence,24.23067283630371,20.40479278564453,3.8258800506591797,high_perf
+863,../VALSE_data/images/v7w/v7w_2401445.jpg,There are surfboards shown.,There are no surfboards shown.,existence,30.22771644592285,27.5864200592041,2.64129638671875,high_perf
+891,../VALSE_data/images/v7w/v7w_2417412.jpg,There are colors on the bird.,There are no colors on the bird.,existence,26.83045196533203,25.295068740844727,1.5353832244873047,high_perf
+887,../VALSE_data/images/v7w/v7w_2416322.jpg,There are people wearing glasses.,There are no people wearing glasses.,existence,18.597177505493164,17.5716552734375,1.025522232055664,high_perf

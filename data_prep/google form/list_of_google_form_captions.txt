@@ -1,0 +1,240 @@
+v7w_2389519.jpg
+Caption (correct): There are bikes on the rack.
+Foil (incorrect): There are no bikes on the rack. 
+
+v7w_2316446.jpg
+Caption (correct): There are no people in the photo.
+Foil (incorrect): There are people in the photo. 
+
+v7w_2345066.jpg
+Caption (correct): There are no birds in the sky.
+Foil (incorrect): There are birds in the sky. 
+
+v7w_2370812.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2349587.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2401335.jpg
+Caption (correct): There are wall sconces visible in this picture.
+Foil (incorrect): There are no wall sconces visible in this picture. 
+
+v7w_2361201.jpg
+Caption (correct): There is a horse.
+Foil (incorrect): There is no horse. 
+
+v7w_2363335.jpg
+Caption (correct): There is a mast on the closest boat.
+Foil (incorrect): There is no mast on the closest boat. 
+
+v7w_2411632.jpg
+Caption (correct): There are no people in the photo.
+Foil (incorrect): There are people in the photo. 
+
+v7w_2323857.jpg
+Caption (correct): There are kinds of fruit.
+Foil (incorrect): There are no kinds of fruit. 
+
+v7w_2408510.jpg
+Caption (correct): There are dials on the microwave.
+Foil (incorrect): There are no dials on the microwave. 
+
+v7w_2359039.jpg
+Caption (correct): There are zebras facing right.
+Foil (incorrect): There are no zebras facing right. 
+
+v7w_2335370.jpg
+Caption (correct): There are no people in the picture.
+Foil (incorrect): There are people in the picture. 
+
+v7w_2380468.jpg
+Caption (correct): There are no people in the photo.
+Foil (incorrect): There are people in the photo. 
+
+v7w_2359029.jpg
+Caption (correct): There are no animals.
+Foil (incorrect): There are animals. 
+
+v7w_2367703.jpg
+Caption (correct): There is a motorcycle.
+Foil (incorrect): There is no motorcycle. 
+
+v7w_2406996.jpg
+Caption (correct): There are no people in the picture.
+Foil (incorrect): There are people in the picture. 
+
+v7w_2362476.jpg
+Caption (correct): There are eagles visible.
+Foil (incorrect): There are no eagles visible. 
+
+v7w_2374842.jpg
+Caption (correct): There are no birds in the photo.
+Foil (incorrect): There are birds in the photo. 
+
+v7w_2403284.jpg
+Caption (correct): There are no people pictured.
+Foil (incorrect): There are people pictured. 
+
+v7w_2390850.jpg
+Caption (correct): There are no people in the water.
+Foil (incorrect): There are people in the water. 
+
+v7w_2345325.jpg
+Caption (correct): There are surfers in the pic.
+Foil (incorrect): There are no surfers in the pic. 
+
+v7w_2342550.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2336798.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2394557.jpg
+Caption (correct): There are no people in this photo.
+Foil (incorrect): There are people in this photo. 
+
+v7w_2363617.jpg
+Caption (correct): There is a pitcher visible.
+Foil (incorrect): There is no pitcher visible. 
+
+v7w_2364948.jpg
+Caption (correct): There is a elephant in the picture.
+Foil (incorrect): There is no elephant in the picture. 
+
+v7w_1591818.jpg
+Caption (correct): There are bicycles.
+Foil (incorrect): There are no bicycles. 
+
+v7w_713731.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2345780.jpg
+Caption (correct): There are no people.
+Foil (incorrect): There are people. 
+
+v7w_2352298.jpg
+Caption (correct): There are no clouds in the sky.
+Foil (incorrect): There are clouds in the sky. 
+
+v7w_2328270.jpg
+Caption (correct): There are no people in the image.
+Foil (incorrect): There are people in the image. 
+
+v7w_150392.jpg
+Caption (correct): There are no clouds in sight.
+Foil (incorrect): There are clouds in sight. 
+
+v7w_2360186.jpg
+Caption (correct): There is a bird in the picture.
+Foil (incorrect): There is no bird in the picture. 
+
+v7w_2411942.jpg
+Caption (correct): There are zebras in the picture.
+Foil (incorrect): There are no zebras in the picture. 
+
+v7w_2373121.jpg
+Caption (correct): There are no clouds in the sky.
+Foil (incorrect): There are clouds in the sky. 
+
+v7w_2318073.jpg
+Caption (correct): There are lights.
+Foil (incorrect): There are no lights. 
+
+v7w_2359944.jpg
+Caption (correct): There is a person pictured.
+Foil (incorrect): There is no person pictured. 
+
+v7w_2373845.jpg
+Caption (correct): There are no people visible.
+Foil (incorrect): There are people visible. 
+
+v7w_2325309.jpg
+Caption (correct): There are no animals pictured.
+Foil (incorrect): There are animals pictured. 
+
+v7w_2410671.jpg
+Caption (correct): There are giraffes.
+Foil (incorrect): There are no giraffes. 
+
+v7w_2367084.jpg
+Caption (correct): There is a giraffe.
+Foil (incorrect): There is no giraffe. 
+
+v7w_2361437.jpg
+Caption (correct): There are cows shown.
+Foil (incorrect): There are no cows shown. 
+
+v7w_2393355.jpg
+Caption (correct): There are players or shown.
+Foil (incorrect): There are no players or shown. 
+
+v7w_2362253.jpg
+Caption (correct): There is a plane.
+Foil (incorrect): There is no plane. 
+
+v7w_1159443.jpg
+Caption (correct): There are old men.
+Foil (incorrect): There are no old men. 
+
+v7w_2339363.jpg
+Caption (correct): There are skis in the picture.
+Foil (incorrect): There are no skis in the picture. 
+
+v7w_2331050.jpg
+Caption (correct): There are no people pictured here.
+Foil (incorrect): There are people pictured here. 
+
+v7w_2324297.jpg
+Caption (correct): There are children.
+Foil (incorrect): There are no children. 
+
+v7w_2402139.jpg
+Caption (correct): There are no clouds in the sky.
+Foil (incorrect): There are clouds in the sky. 
+
+v7w_2360434.jpg
+Caption (correct): There are signs pictured.
+Foil (incorrect): There are no signs pictured. 
+
+v7w_2361951.jpg
+Caption (correct): There is a train in this picture.
+Foil (incorrect): There is no train in this picture. 
+
+v7w_2401288.jpg
+Caption (correct): There are no people pictured here.
+Foil (incorrect): There are people pictured here. 
+
+v7w_2407816.jpg
+Caption (correct): There are power lines.
+Foil (incorrect): There are no power lines. 
+
+v7w_2385384.jpg
+Caption (correct): There are no people pictured.
+Foil (incorrect): There are people pictured. 
+
+v7w_2346628.jpg
+Caption (correct): There are players shown.
+Foil (incorrect): There are no players shown. 
+
+v7w_2370926.jpg
+Caption (correct): There is a player visible.
+Foil (incorrect): There is no player visible. 
+
+v7w_2401445.jpg
+Caption (correct): There are surfboards shown.
+Foil (incorrect): There are no surfboards shown. 
+
+v7w_2417412.jpg
+Caption (correct): There are colors on the bird.
+Foil (incorrect): There are no colors on the bird. 
+
+v7w_2416322.jpg
+Caption (correct): There are people wearing glasses.
+Foil (incorrect): There are no people wearing glasses. 
+
