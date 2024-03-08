@@ -2,7 +2,7 @@
 
 ## Loading data
 
-Anonymized human subject data is available on [https://drive.google.com/drive/folders/1FY8oO7P_BEuL8dkFaGep8dHq3yi3KgZi?usp=sharing](Google Drive). These should be placed into the data/human_attribution_maps/study_raw_output folder for the human saliency map generation to work.
+Anonymized human subject data is available on [Google Drive](https://drive.google.com/drive/folders/1FY8oO7P_BEuL8dkFaGep8dHq3yi3KgZi). These files should be placed into the data/human_attribution_maps/study_raw_output folder for the human saliency map generation to work.
 
 ## Credits
 MM-SHAP-files folder is a modified version of https://github.com/Heidelberg-NLP/MM-SHAP
